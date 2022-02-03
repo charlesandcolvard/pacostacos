@@ -1,0 +1,19 @@
+Hello!
+
+This is a coding opportunity to show us what you know and how you work.  This
+is a simple order form that calculates price based on numer of requested items
+ that includes very little extra.  In this, please work through the task list
+below and try not to spend more than 3 hours working on this.  Be sure to note
+ what time you start so you can let us know how much time you spent.  In doing
+ so, think of how to do things the right way vs just getting it done as this
+helps us understand what you would do on the job for us.  It is more important
+ to focus on staying within 3 hours than completing all of the tasks.
+
+ Task list:
+ 1) Add a new option for hamburger for $2.50.
+ 2) Add 7.5% tax to order total.
+ 3) Add some backend validation.
+ 4) Add Ketchup as an option where relevant.
+ 5) Add some styling (nothing too extravagant).
+ 6) Add frontend validation (prior to actually submitting the form)
+ After above, feel free to make other improvements!
